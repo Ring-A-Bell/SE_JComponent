@@ -1,0 +1,47 @@
+<resources>
+
+    <string name="app_name">SEJcomp</string>
+    <string name="sc1">You are walking through an enchanted forest with gigantic trees as tall as mountains and as thick as large lakes.
+You got here magically teleported into a distant planet in a distant galaxy in the future.
+You see one such tree with a cave-like structure at its base. What do you do?</string>
+    <string name="sc1_op1">Enter the cave</string>
+    <string name="sc1_op2">You look around, and realise there is another road slightly skewed to the cave entrance.</string>
+    <string name="sc2_1">You enter  the dark hollow of an ancient tree that has had earthlings like you in the past.
+This tree is called the tree of the undying, where death won\'t touch you.
+On the other hand, pain can - if you don\'t make the right moves. And then you have to live with the pain for eternity.
+You are suddenly sucked into a vortex, finding yourself at a crossroads of sorts.
+From here, you can go north-east or north-west</string>
+    <string name="sc2_2">You have been walking for miles... and this is getting frustrating. Will this road ever end?
+Suddenly, a dagger falls from the skies above. What do you do?</string>
+    <string name="sc2_1op1">North-East</string>
+    <string name="sc2_1op2">North-West</string>
+    <string name="sc2_2op1">Pick up the dagger</string>
+    <string name="sc2_2op2">Decide not to pick it up</string>
+    <string name="sc3_1">You walk for miles into what seems like an endless abyss. And then he presents himself. The evil Cthulhu.
+He, it, or whatever - stares at you and you go insane.
+Do you flee for your life or eat your head?</string>
+    <string name="sc3_2">lo and behold! A handsome prince stands before you.
+Suddenly, his iris turns into a deep red color. You are frightened.
+Yet, you find yourself helplessly attracted to the prince. Now, you have a choice to make.
+Do you kill him or kiss him?</string>
+    <string name="sc3_1op1">Flee for your life</string>
+    <string name="sc3_1op2">Approach the strange creature, trembling</string>
+    <string name="sc3_2op1">Kiss the handsome princess</string>
+    <string name="sc3_2op2">Stab him in the heart with the dagger</string>
+    <string name="sc4_1">You have been betrayed by your lecherous lust. This god of desire turns into a dragon and burns you to dust.
+Wrong move friend. You shall be lost forever into the infinite abyss of the tree of the undead.</string>
+    <string name="sc4_2">What a murderous and sinful thing you just committed. However, the dead body suddenly, vaporises, and you realise that you just killed
+one of the most evil demons to have walked the face of this world.</string>
+    <string name="sc4_1op1">You\'re dead. End game.</string>
+    <string name="sc4_1op2">You\'re dead. End game.</string>
+    <string name="sc4_2op1">You\'re alive. Congrats, you just won the game.</string>
+    <string name="sc4_2op2">You\'re alive. Congrats, you just won the game.</string>
+    <string name="sc5_1">You didn\'t pick up the dagger. You continue walking, and see this demon-like figure suddenly appear out of nowhere.
+You panic, and realise that you have no weapon to defend yourself with. Suddenly, it senses your vulnerability, and teleports the both of y\'all
+into a room, with your back against the wall. It approaches you, step by step, and engulfs you in a dark smoke like vapour, and you cease to exist.</string>
+    <string name="sc5_1op1">You\'re dead. End game.</string>
+    <string name="sc5_1op2">You\'re dead. End game.</string>
+    <string name="honor_value">Honor</string>
+    <string name="player_name">Nathan Drake</string>
+
+</resources>

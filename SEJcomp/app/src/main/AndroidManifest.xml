@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.sejcomp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Scene_Five_one"></activity>
+        <activity android:name=".Scene_Fourth_two" />
+        <activity android:name=".Scene_Third_two" />
+        <activity android:name=".Scene_Fourth_one" />
+        <activity android:name=".Scene_Third_one" />
+        <activity android:name=".Scene_Second_two" />
+        <activity android:name=".Scene_Second_one" />
+        <activity android:name=".Second_Scene" />
+        <activity android:name=".Credit" />
+        <activity android:name=".HowToPlay" />
+        <activity android:name=".Scene_First" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
